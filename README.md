@@ -1,0 +1,1 @@
+# NoFarsi_Bot.py
